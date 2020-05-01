@@ -117,3 +117,10 @@ ion-note {
 ion-item.selected {
   --color: var(--ion-color-primary);
 }
+
+ion-menu {
+  ion-item ion-label {
+    text-overflow: unset;
+    white-space: unset;
+  }
+}

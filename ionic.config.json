@@ -1,5 +1,7 @@
 {
   "name": "side-menu",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
